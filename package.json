@@ -1,0 +1,16 @@
+{
+    "name": "convert-principal-to-subaccount-ts",
+    "version": "0.1.0",
+    "description": "Internet Computer principal to subaccount in TS",
+    "keywords": [
+      "Internet Computer",
+      "Motoko",
+      "JavaScript",
+      "Canister"
+    ],
+    "devDependencies": {
+        "@dfinity/principal": "^0.10.2",
+        "crypto-js": "^4.1.1",
+        "buffer-crc32": "^0.2.13"
+    }
+}
