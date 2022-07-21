@@ -1,6 +1,6 @@
 # Convert-principal-to-subaccount-IC
 
-Convert Principal to subaccount ID on the IC
+Convert Principal to subaccount ID in Javascript/TypeScript on the Internet Computer Blockchain.
 
 
 Just import the function getAccountId.
